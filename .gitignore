@@ -4,3 +4,9 @@
 /temp/
 /dead_logos*.json
 /scripts/dead_logos*.json
+.rgignore
+data/*old
+data/*bak
+data/*meh
+data/*720*
+data/*1080*
