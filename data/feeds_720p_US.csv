@@ -43,9 +43,11 @@ Bonanza.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 CarChase.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 CartoonNetwork.us,HDEast,HD East,,FALSE,c/US,America/New_York,eng;spa,1080i
 CartoonNetwork.us,HDWest,HD West,,FALSE,c/US,America/Los_Angeles,eng;spa;por,1080i
+CBSenespanol.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 CelebrityNameGame.us,SD,SD,,TRUE,c/US,America/New_York,eng,1080p
 CheersPlusFrasier.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 Cineaventura.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
+Cineenespanol.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 Cinemax.us,HDEast,HD East,,FALSE,c/US,America/New_York,eng;spa,1080i
 Cinemax.us,HDWest,HD West,,FALSE,c/US,America/Los_Angeles,eng;spa,1080i
 CinemaxAction.us,EastHD,East HD,,FALSE,c/US,America/New_York,eng;spa,1080i
@@ -62,7 +64,9 @@ CNNOriginals.us,SD,SD,,TRUE,c/US,America/New_York,eng,1080p
 ComedyCentralPlutoTV.us,US,US,,TRUE,c/US,America/New_York,eng,720p
 Crunchyroll.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng;jap,1080p
 CSIMiami.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
+CSIMiamienespanol.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 CSINY.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
+CSINYenespanol.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 CuriosityNOW.de,EN,EN,US;english,FALSE,c/US,America/New_York,eng,1080p
 DatingDisasters.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 DaystarReflections.us,YouTube,YouTube,,TRUE,c/US,America/New_York,eng,1080p
@@ -121,6 +125,7 @@ K5.us,SD,SD,,TRUE,c/US,America/New_York,eng,720p
 KungFuMovies.us,HD,HD,,TRUE,c/US,America/New_York,eng,1080p
 LaffMore.us,HD,HD,,TRUE,c/US,America/New_York,eng,720p
 LasVegasTonightwithDaleDavidson.us,HD,HD,,TRUE,c/US,America/New_York,eng,1080p
+LatinoChannelTV.us,HD,HD,,TRUE,c/US,America/New_York,eng,1080p
 LaVozdeJesusHD.do,HD,HD,,TRUE,c/US;c/DO,America/New_York,eng;spa,720p
 Lawless.us,SD,SD,,TRUE,c/US,America/New_York,eng,1080p
 LiveMusic.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
@@ -137,6 +142,7 @@ MoreMax.us,WestHD,West HD,,FALSE,c/US,America/Los_Angeles,eng;spa,1080i
 MoreTrueCrime.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 MovieSphere.us,US,US,,TRUE,c/US,America/New_York,eng,1080p
 MSNBC.us,HD,HD,,TRUE,c/US,America/New_York,eng,1080i
+MTVFlowLatino.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 NashBridges.us,SD,SD,,TRUE,c/US;c/CA,America/New_York,eng,1080p
 Nashville.us,SD,SD,,TRUE,c/US,America/New_York,eng,1080p
 NationalGeographic.us,HDEast,HD East,,FALSE,c/US,America/New_York,eng,1080i
@@ -153,6 +159,7 @@ News12PlusNewYork.us,HD,HD,,TRUE,c/US;s/US-NY,America/New_York,eng,720p
 NewsoftheWorld.us,USA,USA,NOW USA,FALSE,c/US,America/New_York,eng,1080p
 Nickelodeon.us,EastHD,East HD,,FALSE,c/US,America/New_York,eng,1080p
 Nickelodeon.us,WestHD,West HD,,FALSE,c/US,America/Los_Angeles,eng,1080p
+Nickelodeonenespanol.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 NickelodeonPlutoTV.us,SD,SD,,TRUE,c/US,America/New_York,eng,720p
 NickJr.us,EastHD,East HD,,FALSE,c/US,America/New_York,eng,1080p
 NickJr.us,WestHD,West HD,,FALSE,c/US,America/Los_Angeles,eng,1080p
@@ -211,6 +218,8 @@ SupernaturalDrama.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 SWAT.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 TCT.us,WSPFCD,WSPF-CD,,FALSE,c/US,America/New_York,eng,1080i
 TDAmeritradeNetwork.us,SD,SD,,TRUE,c/US,America/New_York,eng,1080i
+Telemundo.us,EastHD,East HD,,FALSE,c/US,America/New_York,eng,1080p
+Telemundo.us,WestHD,West HD,,FALSE,c/US,America/Los_Angeles,eng,1080p
 TennesseeValleySportsEntertainmentNetwork.us,HD,HD,,TRUE,c/US,America/Chicago,eng,720p
 TheBradyBunch.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 TheConners.us,SD,SD,,TRUE,c/US;c/CA,America/New_York,eng,1080p
@@ -233,6 +242,8 @@ ToughJobs.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 TransformersTV.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 TurismoHD.do,HD,HD,,TRUE,c/US;c/DO,America/New_York,eng;spa,720p
 TVW.us,HD,HD,,TRUE,c/US,America/New_York,eng,1080i
+Univision.us,EastHD,East HD,,FALSE,c/US,America/New_York,eng,1080p
+Univision.us,WestHD,West HD,,FALSE,c/US,America/Los_Angeles,eng,1080p
 VegasLifeTV.us,HD,HD,,TRUE,c/US;c/PH,America/New_York,eng;tgl,1080p
 VH1QueensofReality.us,SD,SD,,TRUE,c/US,America/Los_Angeles,eng,720p
 WatchmenChristianTV.us,SD,SD,,TRUE,c/US,America/New_York,eng,720p
